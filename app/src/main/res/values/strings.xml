@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Student Predictor</string>
+    <string name="prediksi_sekarang">🔮 Prediksi Sekarang</string>
+    <string name="nilai_g3">📊 Nilai G3</string>
+    <string name="nilai_g2">📊 Nilai G2</string>
+    <string name="sekolah">🏫 Sekolah</string>
+    <string name="jenis_kelamin">🧑 Jenis Kelamin</string>
+    <string name="usia">📅 Usia</string>
+    <string name="jam_belajar_minggu">⏳ Jam Belajar/Minggu</string>
+    <string name="pengulangan_kelas">❌ Pengulangan Kelas</string>
+    <string name="nilai_g1">📊 Nilai G1</string>
+    <string-array name="schools">
+        <item>GP - Gabriel Pereira</item>
+        <item>MS - Mousinho da Silveira</item>
+    </string-array>
+
+    <string-array name="genders">
+        <item>Perempuan</item>
+        <item>Laki-laki</item>
+    </string-array>
+</resources>
